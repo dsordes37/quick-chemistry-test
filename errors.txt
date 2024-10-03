@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1614: screen expects a non-empty block.
+    screen perguntai:
+                     ^
+
+File "game/script.rpy", line 1615: expected statement.
+    imagemap:
+            ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Tue Dec  7 07:15:27 2021

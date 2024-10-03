@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 1626, in script
+    jump end
+ScriptError: could not find label 'end'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 1626, in script
+    jump end
+  File "renpy/ast.py", line 1752, in execute
+    rv = renpy.game.script.lookup(target)
+  File "renpy/script.py", line 918, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'end'.
+
+Windows-10-10.0.19041
+Ren'Py 7.4.8.1895
+PPA_alpha 1.0
+Tue Dec  7 12:41:32 2021
