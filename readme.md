@@ -1,7 +1,7 @@
 !["imagem do menu"](game/images/menu.png  "assak")
 # Quick chemistry test
 
-Quick chemestry test é uma visual novel desenvolvida por mim e meus colegas de esco.
+Quick chemestry test é uma visual novel desenvolvida por mim e meus colegas de escola.
 
 ## História
 
