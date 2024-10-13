@@ -53,7 +53,7 @@ No jogo acompanhamos a história de Alba, que está muito ansiosa com o teste se
 - Amanda Coelho de Souza  
 - Ana Luiza Vidal Teixeira  
 - Davi Lucas dos Santos  
-- D´Sordes Moreira Alves  
+- D'Sordes Moreira Alves  
 - Enzo Soares Crusoé Silva  
 - Gabriel Reis de Assis  
 - Gustavo Teixeira Andrade  
